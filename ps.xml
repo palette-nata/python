@@ -1,0 +1,16 @@
+<data>
+  <person>
+    <id>123</id>
+    <fio>Иванов Иван Иванович</fio>
+    <tel>223-322-223-322</tel>
+    <age>34</age>
+    <description>рабочий</description>
+  </person>
+  <person>
+    <id>124</id>
+    <fio>Иванов Сергей Петрович</fio>
+    <tel>111-222-111-222</tel>
+    <age>43</age>
+    <description>запасной</description>
+  </person>
+</data>
