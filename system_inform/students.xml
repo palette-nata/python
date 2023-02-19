@@ -1,0 +1,32 @@
+﻿<data>
+  <person>
+    <id>1</id>
+    <lastname>Иванов</lastname>
+    <firstname>Иван</firstname>
+    <patronymic>Иванович</patronymic>
+    <birthdate>12.12.2012</birthdate>
+    <phonenumber>123-311</phonenumber>
+    <address>ул. Подгорная 36-82</address>
+    <classnumber>1А</classnumber>
+  </person>
+  <person>
+    <id>2</id>
+    <lastname>Петров</lastname>
+    <firstname>Пётр</firstname>
+    <patronymic>Петрович</patronymic>
+    <birthdate>12.12.2000</birthdate>
+    <phonenumber>233-432</phonenumber>
+    <address>ул. Северная 12-22</address>
+    <classnumber>1А</classnumber>
+  </person>
+  <person>
+    <id>3</id>
+    <lastname>Сидоров</lastname>
+    <firstname>Сидр</firstname>
+    <patronymic>Сидорович</patronymic>
+    <birthdate>12.12.2000</birthdate>
+    <phonenumber>934-938</phonenumber>
+    <address>ул. Гагарина 74-12</address>
+    <classnumber>1Б</classnumber>
+  </person>
+</data>
